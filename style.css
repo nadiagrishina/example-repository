@@ -1,0 +1,30 @@
+table {
+    
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+th, td {
+    border: 1px solid black;
+    text-align: center;
+}
+.d {
+    width: 18px;
+    text-align: center;
+	float: left;
+    word-wrap: break-word;
+}
+.distant {
+    background-color: yellow;
+}
+.green {
+    background-color: green;
+    height: 10px;
+}
+.double-row {
+    height: 18px;
+}
+.h {
+    height: 60px;
+}
